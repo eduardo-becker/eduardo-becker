@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Eduardo Becker 😁
+## Bem-vindo(a) ao meu perfil 😁
 
  <div>
    <a href="https://github.com/eduardo-becker">
